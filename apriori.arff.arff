@@ -1,0 +1,9 @@
+@relation dataset
+@attribute a{true,false}
+@attribute b{true,false}
+@data
+true,true
+true,false
+false,false
+true,true
+true,true 
